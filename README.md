@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### Computer Science major at Acharya Narendra Dev College (University of Delhi)
+### I'm currently learning Full-Stack development (MERN)
 <!--
 **khatrijiraj/khatrijiraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
