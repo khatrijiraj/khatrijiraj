@@ -4,7 +4,7 @@
 ### Till now i know languages like C++, Java, HTML, CSS, JavaScript, JQuery
 ### Other Skills/Interests/Hobbies: Adobe Photoshop, Adobe Premiere Pro, Mobile Photography
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khatrijiraj&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Raj Khatri's github activity graph](https://activity-graph.herokuapp.com/graph?username=khatrijiraj&bg_color=ffffff&color=000000&line=FFA500&point=FFA500&area_color=FFA500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Raj Khatri's github activity graph](https://activity-graph.herokuapp.com/graph?username=khatrijiraj&bg_color=ffffff&color=000000&line=FB8C01&point=FB8C01&area_color=FB8C01&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **khatrijiraj/khatrijiraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
