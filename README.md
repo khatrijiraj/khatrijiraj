@@ -1,36 +1,24 @@
-### Hi there 👋
-### Computer Science major at Acharya Narendra Dev College (University of Delhi)
-### I'm currently learning Full-Stack development (MERN)
-### Till now i know languages like C++, Java, HTML, CSS, JavaScript, JQuery
-### Other Skills/Interests/Hobbies: Adobe Photoshop, Adobe Premiere Pro, Mobile Photography
+<h1 align="center">Hi 👋, I'm Raj Khatri</h1>
+🌱 I’m currently learning <b>Full-Stack Development (MERN)</b>
+<br />
+📫 How to reach me <b>khatriraj030@gmail.com</b>
+<br />
+⚡ Other Skills/Interests/Hobbies <b>Adobe Photoshop, Adobe Premiere Pro, Mobile Photography</b>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khatrijiraj&hide_border=true&show_icons=true&icon_color=FB8C01&title_color=FB8C01)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khatrijiraj&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khatrijiraj&show_icons=true&title_color=fb8c01&hide_border=true&locale=en" alt="khatrijiraj" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khatrijiraj&hide_border=true&title_color=FB8C01&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-
-![](https://komarev.com/ghpvc/?username=khatrijiraj)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=khatrijiraj)](https://github.com/ryo-ma/github-profile-trophy)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khatrijiraj&theme=default" alt="khatrijiraj" /></p>
 
 
-[![Raj Khatri's github activity graph](https://activity-graph.herokuapp.com/graph?username=khatrijiraj&bg_color=ffffff&color=000000&line=FB8C01&point=FB8C01&area_color=FB8C01&&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khatrijiraj&show_icons=true&title_color=fb8c01&hide_border=true&locale=en" alt="khatrijiraj" /></p>
 
-<!--
-**khatrijiraj/khatrijiraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/khatrijiraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khatrijiraj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/khatrijiraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khatrijiraj" height="30" width="40" /></a>
+<a href="https://fb.com/khatrijiraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khatrijiraj" height="30" width="40" /></a>
+<a href="https://instagram.com/khatrijiraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khatrijiraj" height="30" width="40" /></a>
+</p>
