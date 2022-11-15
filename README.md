@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🌱 I’m currently learning Full-Stack Development (MERN)<br>📫 How to reach me khatriraj030@gmail.com<br>⚡ Other skills Adobe Photoshop & Video Editing<br>👨‍🎓 Computer Science major at <a href="https://www.andc.du.ac.in">Acharya Narendra Dev College (University of Delhi)<a>
+🌱 I’m currently learning Full-Stack Development (MERN)<br>📫 How to reach me khatriraj030@gmail.com<br>⚡ Other skills Adobe Photoshop & Video Editing<br>👨‍🎓 Computer Science major at <a href="https://www.andcollege.du.ac.in/">Acharya Narendra Dev College (University of Delhi)<a>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&style=for-the-badge&logoColor=white)](https://facebook.com/khatrijiraj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=for-the-badge&logoColor=white)](https://instagram.com/khatrijiraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/khatrijiraj) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&style=for-the-badge&logoColor=white)](https://twitter.com/khatrijiraj)
