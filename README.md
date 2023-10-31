@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🌱 Full-Stack Development (MERN)<br>📫 How to reach me khatriraj030@gmail.com<br>⚡ Skills:<br>&emsp;&emsp;• Development: Full Stack Web & Android.<br>&emsp;&emsp;• Graphics: Experienced in Adobe Photoshop, Figma & Canva.<br>&emsp;&emsp;• UI & UX: Google UX Design Specialization.<br>&emsp;&emsp;• Video Editing: Adobe Premiere Pro & Filmora<br>👨‍🎓 MCA (Software Engineering): <a href="http://ipu.ac.in/usict/">USICT, (GGSIPU)<a><br>👨‍🎓 B.Sc. (H) Computer Science: <a href="https://www.andcollege.du.ac.in/">ANDC (DU)<a>
+🌱 Full-Stack Development (MERN)<br>📫 How to reach me khatriraj030@gmail.com<br>👨‍🎓 MCA (Software Engineering): <a href="http://ipu.ac.in/usict/">USICT, (GGSIPU)<a><br>👨‍🎓 B.Sc. (H) Computer Science: <a href="https://www.andcollege.du.ac.in/">ANDC (DU)<a><br>⚡ Skills:<br>&emsp;&emsp;• Development: Full Stack Web & Android.<br>&emsp;&emsp;• Graphics: Experienced in Adobe Photoshop, Figma & Canva.<br>&emsp;&emsp;• UI & UX: Google UX Design Specialization.<br>&emsp;&emsp;• Video Editing: Adobe Premiere Pro & Filmora
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/khatrijiraj)
