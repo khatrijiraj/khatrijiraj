@@ -1,4 +1,4 @@
-## 💫 About Me:
+# 💫 About Me:
 📫 Contact: khatriraj030@gmail.com<br/>
 👨‍🎓 Education:
   - MCA (Software Engineering): USICT, GGSIPU
@@ -10,8 +10,7 @@
   - Google UX Design Specialization for UI & UX
   - Adobe Premiere Pro & Filmora for video editing
 
----
-## 🌐 Socials:
+# 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?&style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/khatrijiraj) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/khatrijiraj) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/khatrijiraj) 
@@ -20,8 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khatrijiraj) 
 [![X](https://img.shields.io/badge/X-black.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/khatrijiraj) 
 
----
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 ### Programming Languages
 <div  style="display: flex; flex-wrap: wrap;  gap: 10px;">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -101,20 +99,17 @@
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
 </div>
 
-
----
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=khatrijiraj&theme=onedark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" /> <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khatrijiraj&theme=onedark&hide_border=true&card_width=450" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khatrijiraj&card_width=450&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&langs_count=12&size_weight=0.5&count_weight=0.5&exclude_repo=data-mining-anime-recommendation" alt="Top Languages" />
 </div>
 
----
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=khatrijiraj&theme=onedark&no-frame=false&no-bg=false&margin-w=4&column=-1)
 
----
+# 👁️👁️ Visitors
 [![](https://visitcount.itsvg.in/api?id=khatrijiraj&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
