@@ -101,7 +101,7 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=khatrijiraj&theme=onedark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" /> <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=khatrijiraj&theme=onedark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" /> <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khatrijiraj&theme=onedark&hide_border=true&card_width=450" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khatrijiraj&card_width=450&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&langs_count=12&size_weight=0.5&count_weight=0.5&exclude_repo=data-mining-anime-recommendation" alt="Top Languages" />
 </div>
