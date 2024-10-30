@@ -1,6 +1,6 @@
 # 💫 About Me:
-📫 Contact: khatriraj030@gmail.com<br/>
-👨‍🎓 Education:
+- Contact: khatriraj030@gmail.com<br/>
+- Education:
   - MCA (Software Engineering): USICT, GGSIPU
   - B.Sc. (H) Computer Science: ANDC, DU<br/>
   
