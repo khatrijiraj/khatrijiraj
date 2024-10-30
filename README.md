@@ -4,12 +4,6 @@
   - MCA (Software Engineering): USICT, GGSIPU
   - B.Sc. (H) Computer Science: ANDC, DU<br/>
   
-⚡ Skills:
-  - Full Stack Web & Android Development
-  - Adobe Photoshop, Figma, Canva for graphics
-  - Google UX Design Specialization for UI & UX
-  - Adobe Premiere Pro & Filmora for video editing
-
 # 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?&style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/khatrijiraj) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/khatrijiraj) 
