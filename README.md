@@ -1,3 +1,4 @@
+<!--<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="Hello World"/><br/> -->
 # 💫 About Me:
 - Contact: khatriraj030@gmail.com<br/>
 - Education:
@@ -77,5 +78,4 @@
 
 # 👁️👁️ Visitors
 [![](https://visitcount.itsvg.in/api?id=khatrijiraj&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="Dino"/><br/>
