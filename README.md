@@ -1,11 +1,14 @@
-<!--<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="Hello World"/><br/> -->
-# 💫 About Me:
+<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;">, I'm Raj Khatri</h1>
+
+## 💫 About Me:
 - Contact: khatriraj030@gmail.com<br/>
+- Experience:
+  - Software Development Engineer [@CaptureATrip](https://www.captureatrip.com/)
 - Education:
-  - MCA (Software Engineering): USICT, GGSIPU
-  - B.Sc. (H) Computer Science: ANDC, DU<br/>
+  - MCA (Software Engineering) [@USICT, GGSIPU](https://ipu.ac.in/)
+  - B.Sc. (H) Computer Science [@ANDC, DU](https://www.andcollege.du.ac.in/)<br/>
   
-# 🌐 Socials:
+## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?&style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/khatrijiraj) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/khatrijiraj) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/khatrijiraj) 
@@ -14,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khatrijiraj) 
 [![X](https://img.shields.io/badge/X-black.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/khatrijiraj) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ### Programming Languages
 <div  style="display: flex; flex-wrap: wrap;  gap: 10px;">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -66,16 +69,25 @@
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </div>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=khatrijiraj&theme=onedark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" /> <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khatrijiraj&theme=onedark&hide_border=true&card_width=450" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khatrijiraj&card_width=450&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&langs_count=5&size_weight=0.5&count_weight=0.5&exclude_repo=data-mining-anime-recommendation" alt="Top Languages" />
 </div>
 
-# 🏆 GitHub Trophies
+## 🧠 Leetcode Stats (DSA):
+<div style="width: 100%">
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/khatrijiraj?theme=dark&font=Nunito&ext=heatmap" />  
+</div>
+
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=khatrijiraj&theme=onedark&no-frame=false&no-bg=false&margin-w=4&column=-1)
 
-# 👁️👁️ Visitors
-[![](https://visitcount.itsvg.in/api?id=khatrijiraj&icon=5&color=12)](https://visitcount.itsvg.in)
+## 👁️👁️ Visitors
+<div>
+  <img src="https://komarev.com/ghpvc/?username=khatrijiraj&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="khatrijiraj" />
+</div>
+
+## 🦖 Dino
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="Dino"/><br/>
