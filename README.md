@@ -3,6 +3,7 @@
 ## 💫 About Me:
 - Contact: khatriraj030@gmail.com<br/>
 - Experience:
+  - Systems Engineer [@TCS](https://www.tcs.com/)
   - Software Development Engineer [@CaptureATrip](https://www.captureatrip.com/)
 - Education:
   - MCA (Software Engineering) [@USICT, GGSIPU](https://ipu.ac.in/)
