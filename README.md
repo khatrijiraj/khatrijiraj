@@ -4,7 +4,7 @@
 - Contact: khatriraj030@gmail.com<br/>
 - Experience:
   - Systems Engineer [@TCS](https://www.tcs.com/)
-  - Software Development Engineer [@CaptureATrip](https://www.captureatrip.com/)
+  - Ex Software Development Engineer [@CaptureATrip](https://www.captureatrip.com/)
 - Education:
   - MCA (Software Engineering) [@USICT, GGSIPU](https://ipu.ac.in/)
   - B.Sc. (H) Computer Science [@ANDC, DU](https://www.andcollege.du.ac.in/)<br/>
