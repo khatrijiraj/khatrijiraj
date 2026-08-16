@@ -6,8 +6,8 @@
   - Systems Engineer [@TCS](https://www.tcs.com/) - Jan 2026 to Present
   - Software Development Engineer [@CaptureATrip](https://www.captureatrip.com/) - Apr 2025 to Dec 2025
 - Education:
-  - MCA (Software Engineering) [@USICT, GGSIPU](https://ipu.ac.in/) - 2023 to 2025
-  - B.Sc. (H) Computer Science [@ANDC, DU](https://www.andcollege.du.ac.in/)<br/> - 2020 to 2023
+  - MCA (Software Engineering) [@USICT, GGSIPU](https://ipu.ac.in/) - Sep 2023 to Jul 2025
+  - B.Sc. (H) Computer Science [@ANDC, DU](https://www.andcollege.du.ac.in/)<br/> - Nov 2020 to Jul 2023
   
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?&style=flat-square&logo=behance&logoColor=white)](https://behance.net/khatrijiraj) 
