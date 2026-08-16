@@ -7,7 +7,7 @@
   - Software Development Engineer [@CaptureATrip](https://www.captureatrip.com/) - Apr 2025 to Dec 2025
 - Education:
   - MCA (Software Engineering) [@USICT, GGSIPU](https://ipu.ac.in/) - Sep 2023 to Jul 2025
-  - B.Sc. (H) Computer Science [@ANDC, DU](https://www.andcollege.du.ac.in/)<br/> - Nov 2020 to Jul 2023
+  - B.Sc. (H) Computer Science [@ANDC, DU](https://www.andcollege.du.ac.in/) - Nov 2020 to Jul 2023<br/>
   
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?&style=flat-square&logo=behance&logoColor=white)](https://behance.net/khatrijiraj) 
