@@ -3,8 +3,8 @@
 ## 💫 About Me:
 - Contact: khatriraj030@gmail.com<br/>
 - Experience:
-  - Systems Engineer [@TCS](https://www.tcs.com/)
-  - Ex Software Development Engineer [@CaptureATrip](https://www.captureatrip.com/)
+  - Systems Engineer [@TCS](https://www.tcs.com/) - Jan 2026 to Present
+  - Software Development Engineer [@CaptureATrip](https://www.captureatrip.com/) - Apr 2025 to Dec 2025
 - Education:
   - MCA (Software Engineering) [@USICT, GGSIPU](https://ipu.ac.in/)
   - B.Sc. (H) Computer Science [@ANDC, DU](https://www.andcollege.du.ac.in/)<br/>
